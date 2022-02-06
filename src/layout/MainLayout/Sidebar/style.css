@@ -1,0 +1,12 @@
+.MuiListItemButton-root {
+    border-radius: 10px !important;
+}
+
+.MuiListItemButton-root.Mui-selected {
+    background-color: #4D6194 !important;
+    color: white;
+}
+
+.Mui-selected .css-cveggr-MuiListItemIcon-root {
+    color: white;
+}
